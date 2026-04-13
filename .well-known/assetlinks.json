@@ -4,7 +4,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "com.liquidlab.adanione.simulation.adanione_simulation",
+      "namespace": "android_app",
       "package_name": "com.liquidlab.adanione.simulation.adanione_simulation",
       "sha256_cert_fingerprints": [
         "29:F4:A2:56:E8:63:7C:64:D5:06:6C:FA:C8:45:0E:16:1F:B9:71:96:90:00:24:50:FE:70:A2:99:5C:5F:44:10"
